@@ -1,0 +1,21 @@
+.mainCon {
+    display: flex;
+    justify-content: center;
+}
+
+.white {
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.red {
+    width: 100px;
+    height: 100px;
+    background-color: #b72027;
+    border-radius: 100%;
+}
